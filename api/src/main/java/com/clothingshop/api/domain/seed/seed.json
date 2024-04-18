@@ -1,0 +1,322 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "cat": "shirt",
+      "img": "https://plus.unsplash.com/premium_photo-1682430259342-427ec43ebc38?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2hpcnR8ZW58MHx8MHx8fDA%3D",
+      "title": "SHIRT"
+    },
+    {
+      "id": 2,
+      "cat": "jeans",
+      "img": "https://plus.unsplash.com/premium_photo-1665664652383-2308d742943c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8amVhbnN8ZW58MHx8MHx8fDA%3D",
+      "title": "JEANS"
+    },
+    {
+      "id": 3,
+      "cat": "dress",
+      "img": "https://images.unsplash.com/photo-1533659828870-95ee305cee3e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGRyZXNzfGVufDB8fDB8fHww",
+      "title": "DRESS"
+    },
+    {
+      "id": 4,
+      "cat": "sweater",
+      "img": "https://images.unsplash.com/photo-1580331451062-99ff652288d7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHN3ZWF0ZXJ8ZW58MHx8MHx8fDA%3D",
+      "title": "SWEATER"
+    },
+    {
+      "id": 5,
+      "cat": "trousers",
+      "img": "https://images.unsplash.com/photo-1578834956941-dd4ecffeae0c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHRyb3VzZXJzfGVufDB8fDB8fHww",
+      "title": "TROUSERS"
+    },
+    {
+      "id": 6,
+      "cat": "t-shirt",
+      "img": "https://images.unsplash.com/photo-1583744946564-b52ac1c389c8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "T-SHIRT"
+    }
+  ],
+  "products": [
+    {
+      "title": "The Silky Cotton Relaxed Shirt",
+      "colors": ["white", "black", "blue"],
+      "sizes": ["S", "M", "L", "XL"],
+      "description": "Made from high-twist, 100% cotton yarn in a traditional twill weave, this drapey shirt has an extra-smooth feel you usually get from decades of wear—in a roomy, slightly oversized fit that’s easy to dress up with heels, or dress down with jeans. It’s that perfect button-down you can never find, found.",
+      "img": "https://media.everlane.com/image/upload/c_fill,w_1080,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/3319607f_c91e",
+      "inStock": true,
+      "price": 30,
+      "category": {
+        "id": 1
+      }
+    },
+    {
+      "title": "The Relaxed Oxford Shirt",
+      "colors": ["white", "black", "blue", "yellow"],
+      "sizes": ["M", "L", "XL"],
+      "description": "We took the same fabric we use for our men’s oxfords and made a modern, relaxed version just for you. Tucked in or out, unbuttoned or buttoned—it’s an everyday classic. ",
+      "img": "https://media.everlane.com/image/upload/c_fill,w_1080,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/bbb62b1e_77e3",
+      "inStock": true,
+      "price": 40,
+      "category": {
+        "id": 1
+      }
+    },
+    {
+      "title": "The Washable Clean Silk Relaxed Shirt",
+      "colors": ["white", "black", "blue", "green", "yellow"],
+      "sizes": ["M", "L", "XL"],
+      "description": "Polished and easy, the Washable Clean Silk Relaxed Shirt has a traditional point collar and a round hem that looks just as good worn loose as it does tucked in. Plus, it’s made of our eco-conscious Clean Silk, for more beauty and less waste.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/7eed1474_719c/womens-clean-silk-relaxed-shirt-hthr-burnt-sugar",
+      "inStock": true,
+      "price": 50,
+      "category": {
+        "id": 1
+      }
+    },
+    {
+      "title": "The Silky Cotton Way-Short Shirt",
+      "colors": ["white", "black", "blue"],
+      "sizes": ["XS", "M"],
+      "description": "Made from high-twist, 100% cotton yarn in a soft twill weave, the Silky Cotton Way-Short Shirt features a point collar, a clean button front, one patch pocket, and a cropped shape that pairs perfectly with high-waisted bottoms. Wear it with jeans for a classic look, or pair it with something stretchy for an easy (yet super-flattering) outfit. ",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/6b1e7d8f_a293/womens-silky-cttn-cropped-shirt-white",
+      "inStock": true,
+      "price": 60,
+      "category": {
+        "id": 1
+      }
+    },
+    {
+      "title": "The Linen Short-Sleeve Standard Fit Shirt",
+      "colors": ["white", "black", "blue", "green"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "This piece features a standard fit, short sleeves, collar, button closure, and front pocket, in linen.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/fc260434_e975/mens-linen-ss-shirt-white-blue",
+      "inStock": true,
+      "price": 70,
+      "category": {
+        "id": 1
+      }
+    },
+    {
+      "title": "The Organic Oxford Shirt",
+      "colors": ["white", "blue", "green"],
+      "sizes": ["M", "L", "XL"],
+      "description": "Made to be worn untucked or tucked in. Pair The Organic Oxford Shirt with trousers or denim—brace yourself for compliments.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/650aeef7_6478/mens-organic-oxford-shirt-sage-green",
+      "inStock": true,
+      "price": 80,
+      "category": {
+        "id": 1
+      }
+    },
+    {
+      "title": "The Linen Standard Fit Shirt",
+      "colors": ["black", "blue", "yellow"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "This piece features a standard fit, long sleeves, collar, button closure, and front pocket, in linen. ",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/8b04c298_5af6/mens-linen-ls-shirt-navy",
+      "inStock": true,
+      "price": 40,
+      "category": {
+        "id": 1
+      }
+    },
+    {
+      "title": "The Supima® Poplin Shirt",
+      "colors": ["black", "white", "blue"],
+      "sizes": ["XS", "M", "XL"],
+      "description": "This piece features a slim fit, long sleeves, and a button front closure in 100% Supima® cotton.",
+      "img": "https://media.everlane.com/image/upload/c_fill,w_1080,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/71644bb0_a102",
+      "inStock": true,
+      "price": 20,
+      "category": {
+        "id": 1
+      }
+    },
+    {
+      "title": "The Way-High® Curve Jean",
+      "colors": ["black", "blue"],
+      "sizes": ["XS", "M", "XL"],
+      "description": "Update your denim lineup with the Way-High® Curve Jean. Featuring a high-waisted silhouette with a statement curve leg that hits at the ankle, it’s made with organic low-stretch cotton for that shaped effect.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/d0441191_35a7/womens-way-high-curve-jean-mdind",
+      "inStock": true,
+      "price": 35,
+      "category": {
+        "id": 2
+      }
+    },
+    {
+      "title": "The Way-High® Clean Front Skinny Jean",
+      "colors": ["black", "blue"],
+      "sizes": ["XS", "XL", "L"],
+      "description": "The Way-High® Skinny Jean features our highest rise yet, a sleek front panel (no bulky pockets here), and a stretchy, legging-like feel with a gutsy denim look. Plus, it’s made of a super-soft blend of organic cotton and ECOVERO™, so it’s breathable and doesn’t stretch out after wear. In other words, it feels just as good as it looks.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/0a83361f_5345/womens-way-high-skinny-jean-dark-indigo",
+      "inStock": true,
+      "price": 45,
+      "category": {
+        "id": 2
+      }
+    },
+    {
+      "title": "The Organic Cotton Weekend Tank Dress",
+      "colors": ["black", "green", "yellow"],
+      "sizes": ["S", "L", "XL"],
+      "description": "Made of lightweight cotton with a soft, lived-in feel, The Organic Cotton Weekend Tee Dress is like your favorite vintage tee—in dress form. Complete with a classic crew neckline and a relaxed fit throughout, it’s an easy pick for warm-weather days. Trust us—your weekend won’t know what hit it.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/0a83361f_5345/womens-way-high-skinny-jean-dark-indigo",
+      "inStock": true,
+      "price": 55,
+      "category": {
+        "id": 3
+      }
+    },
+    {
+      "title": "The Hammered Satin Shirt Dress",
+      "colors": ["white", "green", "yellow"],
+      "sizes": ["XS", "M", "L", "XL"],
+      "description": "The new way to do shirt dresses. The Hammered Satin Shirt Dress is midi length, with front and back open-ended pleats to create a waisted silhouette, plus voluminous long sleeves. A classic shirt collar, center-front button placket, and double button sleeves stay true to its shirting roots. It’s made with our hammered satin FSC-certified viscose which has a slight sheen for a little extra polish. ",
+      "img": "https://media.everlane.com/image/upload/c_fill,w_1080,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/f09e99d2_2c2b",
+      "inStock": true,
+      "price": 40,
+      "category": {
+        "id": 3
+      }
+    },
+    {
+      "title": "The Organic Cotton Waisted Dress",
+      "colors": ["black", "white"],
+      "sizes": ["S", "M", "L"],
+      "description": "Made with certified organic cotton jersey, The Organic Cotton Waisted Dress, features a classic crew neck with a slouchy bodice, a banded-and-cinched waist with a full skirt and midi length. This one-and-done dress can be worn casually with sneakers or with heeled sandals for a more elevated look.\n\nOrganic cotton uses crop rotation, cover crops, and organic fertilizers instead of toxic chemical fertilizers or pesticides—which means cleaner water, lower water usage, lower pesticide use, healthier soil, and a safer working environment for cotton farmers, compared to conventional cotton.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/4f67dee4_f05a/womens-organic-cotton-a-line-dress-black",
+      "inStock": true,
+      "price": 90,
+      "category": {
+        "id": 3
+      }
+    },
+    {
+      "title": "The Cotton Honeycomb Square Crew",
+      "colors": ["black", "yellow"],
+      "sizes": ["S", "L"],
+      "description": "This piece features an easy, relaxed boxy fit, long sleeves, crew neck, and drop shoulders with a thick rib-stitched hem and neckline in 100% organic cotton.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/8c7b5013_becd/womens-rib-knit-mini-dress-coral",
+      "inStock": true,
+      "price": 65,
+      "category": {
+        "id": 4
+      }
+    },
+    {
+      "title": "The Organic Cotton Crew Sweater",
+      "colors": ["black", "blue", "yellow"],
+      "sizes": ["XS", "L", "XL"],
+      "description": "The perfect boxy-fit sweater, The Organic Cotton Crew Sweater is a layering essential. Featuring a chunky rib stitch at the crew neckline, along the hem, and sleeve cuffs, it has dropped shoulders for a relaxed edge. It’s made with 100% organic cotton, and designed to be styled solo or easily topped with a blazer or cardigan.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/f41a1708_7403/womens-organic-cotton-crew-canvas",
+      "inStock": true,
+      "price": 75,
+      "category": {
+        "id": 4
+      }
+    },
+    {
+      "title": "The Organic Straight-Leg Pant",
+      "colors": ["black", "yellow"],
+      "sizes": ["XS", "L", "XL"],
+      "description": "The Organic Straight-Leg Pant is back and better than ever. Featuring the same waist-nipping, butt-boosting, and leg-lengthening look you love from the original Straight-Leg Crop Pant—now in organic twill. Soft is an understatement. Organic cotton uses crop rotation, cover crops, and organic fertilizers instead of toxic chemical fertilizers or pesticides—which means cleaner water, lower water usage, lower pesticide use, healthier soil, and a safer working environment for cotton farmers, compared to conventional cotton.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_250:312,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/18c4f697_504b/womens-organic-straight-leg-pant-black",
+      "inStock": true,
+      "price": 85,
+      "category": {
+        "id": 5
+      }
+    },
+    {
+      "title": "The TENCEL™ Way-High® Taper Pant",
+      "colors": ["black", "blue"],
+      "sizes": ["S", "L"],
+      "description": "Our Way-High family is growing. Featuring a tapered leg, ankle length, The Way-High® Taper Pant has a non-stretch waistband (we suggest sizing up if you prefer more ease here), an extra-high rise, two side pockets, and a flattering pleat detail. Complete the look with The Oversized Blazer. Talk about a tailored look.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/d89095eb_449f/womens-tencel-way-high-taper-pant-black",
+      "inStock": true,
+      "price": 50,
+      "category": {
+        "id": 5
+      }
+    },
+    {
+      "title": "The Organic Cotton Muscle Tee",
+      "colors": ["black", "blue", "red"],
+      "sizes": ["XS", "L"],
+      "description": "The Organic Cotton Muscle Tee features a delicate rib-trim crewneck, double layer cap sleeves and exaggerated shoulders. Its relaxed, boxy fit is perfect for working out (or not, we won’t tell). Our favorite part? It’s made from certified organic cotton. This tee has a boxy fit with longer armholes, we recommend sizing down for a slimmer fit.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/3315a50b_02fd/womens-organic-cotton-muscle-tee-white",
+      "inStock": true,
+      "price": 20,
+      "category": {
+        "id": 6
+      }
+    },
+    {
+      "title": "The Air Oversized Crew Tee",
+      "colors": ["black", "blue", "red", "green", "yellow"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "Made of drapey, super-light cotton, the Oversized Crew Neck Air Tee has an intentionally oversized fit and longer sleeves for a cool, relaxed look.",
+      "img": "https://media.everlane.com/images/c_fill,w_640,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/63a1ca87_bac8/womens-air-oversized-crew-tee-white",
+      "inStock": true,
+      "price": 30,
+      "category": {
+        "id": 6
+      }
+    }
+  ],
+  "users": [
+    {
+      "email": "user1@email.com",
+      "fullName": "user 1",
+      "username": "user1",
+      "password": "password",
+      "img": "https://images.unsplash.com/photo-1464863979621-258859e62245?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhdXRpZnVsJTIwZ2lybCUyMGZhY2V8ZW58MHx8MHx8fDA%3D",
+      "address": "ABC | USA",
+      "phone": "+012345679",
+      "roles": ["ROLE_USER"]
+    },
+    {
+      "email": "user2@email.com",
+      "fullName": "user 2",
+      "username": "user2",
+      "password": "password",
+      "img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmVhdXRpZnVsJTIwZ2lybCUyMGZhY2V8ZW58MHx8MHx8fDA%3D",
+      "address": "XYZ | Australia",
+      "phone": "+012345679",
+      "roles": ["ROLE_USER"]
+    },
+    {
+      "email": "user3@email.com",
+      "fullName": "user 3",
+      "username": "user3",
+      "password": "password",
+      "img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0aWZ1bCUyMGdpcmwlMjBmYWNlfGVufDB8fDB8fHww",
+      "address": "DEF | France",
+      "phone": "+012345679",
+      "roles": ["ROLE_USER"]
+    },
+    {
+      "email": "user4@email.com",
+      "fullName": "user 4",
+      "username": "user4",
+      "password": "password",
+      "img": "https://images.unsplash.com/photo-1605951654040-422bd7f80c67?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGJlYXV0aWZ1bCUyMGdpcmwlMjBmYWNlfGVufDB8fDB8fHww",
+      "address": "GHI | UK",
+      "phone": "+012345679",
+      "roles": ["ROLE_USER"]
+    },
+    {
+      "email": "admin@email.com",
+      "fullName": "Admin",
+      "username": "admin",
+      "password": "password",
+      "img": "https://images.unsplash.com/photo-1512316609839-ce289d3eba0a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHxiZWF1dGlmdWwlMjBnaXJsJTIwZmFjZXxlbnwwfHwwfHx8MA%3D%3D",
+      "roles": ["ROLE_ADMIN"],
+      "phone": "+0123456789",
+      "address": "ABC | XYZ"
+    }
+  ]
+}
